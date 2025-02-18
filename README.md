@@ -7,6 +7,7 @@ What have I done with Unity
 - 边缘光计算 描边计算
 - 基于sdf的面部阴影计算
 - 眉毛在头发下的半透明 在侧方后方的正确渲染
+
 待完成
 - 眼睛的渲染
 - 自阴影
@@ -22,6 +23,7 @@ What have I done with Unity
 ## 3. SSR RenderFeature
 - 基于URP14的 屏幕空间反射计算
 - 基于空间屏幕的光线步进优化
+
 待完成
 - 基于Hiz预计算的优化算法
 
@@ -32,6 +34,7 @@ What have I done with Unity
 - 基于深度的ramp图采样色彩计算
 - 根据屏幕空间坐标的世界重建焦散计算
 - 基于几何细分着色器的表面细分
+
 待完成
 - 浮力
 - 交互
