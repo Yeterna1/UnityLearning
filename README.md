@@ -10,8 +10,8 @@ What have I done with Unity
 
 待完成
 - 眼睛的渲染
-- 自阴影
-- 其他光源的影响
+- 自阴影![[Hair.png]]
+![[CharToonShader.mp4]]
 
 
 ## 2. SectionRendering
@@ -19,11 +19,11 @@ What have I done with Unity
 - 基于双Pass的正面正常渲染 背面写入stencil值 在另一张Mesh上根据stencil写入（V1）
 - 双Pass 在背部渲染时 加入根据ViewSpace.xy作为uv的图像采样
 - 表面程序化流星渲染
-
+![[SectionRendering/Preview1.png]]
 ## 3. SSR RenderFeature
 - 基于URP14的 屏幕空间反射计算
 - 基于空间屏幕的光线步进优化
-
+![[SSRPreview.png]]
 待完成
 - 基于Hiz预计算的优化算法
 
@@ -38,14 +38,23 @@ What have I done with Unity
 待完成
 - 浮力
 - 交互
-
+![[Water.mp4]]
 ## 5. Tree Rendering
 
 - SpeedTree的树的建模和X型叶片的计算
 - 使用Blender融球重映射法线
 - 卡通风格渲染
+![[Tree.mp4]]
 
 ## 6. WetShader
+- 降饱和度
+- 动态uv流动雨滴
 
+- AdditionalLight的影响
+ ![[WetShader.mp4]]
+![[ToonShader.mp4]]
 
-
+## 7.MetaBall
+基于renderFeature的融球效果
+暂时使用SetGlobalVector进行数据传输（StructuredBuffer会造成内存泄漏未解决）
+![[MetaBall.mp4]]
