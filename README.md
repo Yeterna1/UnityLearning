@@ -11,7 +11,7 @@ What have I done with Unity
 待完成
 - 眼睛的渲染
 - 自阴影
-- ![[/CharToonShader/Hair.png]]
+![Hair](CharToonShader/Hair.png)
 ![[/CharToonShader/CharToonShader.mp4]]
 
 
