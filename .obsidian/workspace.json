@@ -165,13 +165,14 @@
   },
   "active": "e6feec3f0c8baa62",
   "lastOpenFiles": [
+    "CharToonShader/Hair.png",
+    "README.md",
     "WetShader/ToonShader.mp4",
     "WetShader/WetShader.mp4",
     "Water/Water.mp4",
     "Water/Tree.mp4",
     "CharToonShader/CharToonShader.mp4",
     "MetaBall/MetaBall.mp4",
-    "CharToonShader/Hair.png",
     "WetShader/WetShaderSpotlightEffect.gif",
     "WetShader/WetShader.gif",
     "MetaBall/MetaBallRenderFeature.cs",
@@ -184,7 +185,6 @@
     "Water/TreePreview1.png",
     "Water/SSRPreview2.png",
     "Water/SSRPreview.png",
-    "Water/Preview3.png",
-    "README.md"
+    "Water/Preview3.png"
   ]
 }
