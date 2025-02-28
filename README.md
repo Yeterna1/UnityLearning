@@ -11,7 +11,7 @@ keep learning
 - StructuredBuffer控制动态修改融球个数
 - 更好的CPU端数据传输交互
 
-![MetaBallPreview](MetaBall/Preview1.png =(1080*960))
+<img src="MetaBall/Preview1.png" alt="融球效果预览" width="720" height="480">
 
 演示视频地址：https://easylink.cc/y7zlee
 
@@ -22,8 +22,8 @@ keep learning
 - 基于光线步进的体积光
 - 基于SDF距离的靠近描边效果
 
-![SectionPreviewPreview1](/SectionRendering/Preview1.png =(1080*960))
-![SectionPreview2](/SectionRendering/Preview2.png =(1080*960))
+<img src="SectionRendering/Preview1.png" alt="截面渲染预览" width="720" height="480">
+<img src="SectionRendering/Preview2.png" alt="截面渲染预览2" width="720" height="480">
 
 演示视频地址：https://easylink.cc/iod4mk
 
@@ -32,8 +32,7 @@ keep learning
 - 降饱和度
 - 动态uv流动雨滴
 - AdditionalLight的影响
-
-![WetShaderPreview](/WetShader/ToonWetShaderPreview.png =(1080*960))
+<img src="WetShader/ToonWetShaderPreview.png" alt="湿润材质渲染预览" width="720" height="480">
 
 ToonShader效果演示视频地址：https://easylink.cc/swah5h
 WetShader演示：https://easylink.cc/wymp9
@@ -49,8 +48,9 @@ WetShader演示：https://easylink.cc/wymp9
 - 眼睛的渲染
 - 自阴影
 
-![HairPreview](CharToonShader/Hair.png =(1080*960))
-![CharToonShaderPreview](CharToonShader/Preview1.png =(1080*960))
+<img src="CharToonShader/Hair.png" alt="角色渲染预览1" width="720" height="480">
+<img src="CharToonShader/Preview1.png" alt="角色渲染预览2" width="720" height="480">
+
 演示视频：https://easylink.cc/1iat5x
 
 ## 5. Water Rendering
@@ -65,8 +65,7 @@ WetShader演示：https://easylink.cc/wymp9
 - 基于ComputeShader的FFT快速傅里叶变换计算波浪/法线/白沫（项目中FFT算法非自己计算）
 - 浮力
 - 交互
-
-![WaterPreview](Water/Preview1.png =(1080*960))
+<img src="Water/Preview1.png" alt="水渲染预览" width="720" height="480">
 
 演示视频：https://easylink.cc/vrul6g
 
@@ -74,17 +73,14 @@ WetShader演示：https://easylink.cc/wymp9
 
 - SpeedTree的树的建模和X型叶片的计算
 - 使用Blender融球重映射法线
-
-![TreePreview](Water/TreePreview2.png =(1080*960))
-
+<img src="Water/TreePreview2.png" alt="树渲染预览" width="720" height="480">
 演示视频：https://easylink.cc/8pye2p
-
 
 ## 7. SSR RenderFeature
 - 基于URP14的 屏幕空间反射计算
 - 基于空间屏幕的光线步进优化
 
-![SSRPreview](Water/SSRPreview.png)
+<img src="Water/SSRPreview.png" alt="SSR预览" width="720" height="480">
 待完成
 - 基于Hiz预计算的优化算法
 
