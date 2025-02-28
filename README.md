@@ -1,6 +1,7 @@
 # UnityLearning
 keep learning
 
+部分实现文档地址https://www.yuque.com/yuqueyonghu98t8ve/ygpggs
 ## 1.MetaBall
 已完成
 - 基于renderFeature控制的融球效果
