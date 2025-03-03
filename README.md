@@ -1,5 +1,7 @@
 # UnityLearning
 keep learning
+Unity版本2022.3.28
+URP14.0
 
 部分实现文档地址https://www.yuque.com/yuqueyonghu98t8ve/ygpggs
 ## 1.MetaBall
@@ -41,7 +43,7 @@ WetShader演示：https://easylink.cc/wymp9
 ## 4. CharacterToonRendering
 已完成
 - 受MainLight影响的Diffuse/Specular计算
-- 边缘光计算 描边计算（描边的法线算法参考b站大佬的算法[Unity描边计算平滑法线存UV7脚本（尖端优化版） - 哔哩哔哩](https://www.bilibili.com/opus/853774318028455945?spm_id_from=333.1387.0.0)）
+- 边缘光计算 描边计算
 - 基于sdf的面部阴影计算
 - 双pass眉毛在头发下的半透明 在侧方后方的正确渲染
 
